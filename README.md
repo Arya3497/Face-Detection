@@ -1,5 +1,5 @@
 # Face-Detection
-Face detection in images using OpenCV and deep learning.
+Face detection in images using OpenCV and Haar Cascade face detection model.
 
 Thanks to Adrian Rosebrock(www.pyimagesearch.com) for an awesome tutorial which was very helpful in this project. 
 
